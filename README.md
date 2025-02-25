@@ -1,4 +1,4 @@
-### Esta foi a primeira vez que eu crio um site, então tem alguns erros, ainda não possui banco de dados mas pretendo esta melhorando o primeiro prejeto que eu fiz
+### Esta foi a primeira vez que eu crio um site, então tem alguns erros, ainda não possui banco de dados mas pretendo esta melhorando, este e o primeiro projeto de site que eu fiz.
 
 
 ### Este projeto usou as seguintes linguagem
